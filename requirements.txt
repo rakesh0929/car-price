@@ -18,3 +18,7 @@ urllib3==1.25.9
 Werkzeug==1.0.1
 wincertstore==0.2
 gunicorn
+libsm6
+libxrender1
+libfontconfig1
+libice6
