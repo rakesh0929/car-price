@@ -161,10 +161,6 @@ python-jsonrpc-server==0.4.0
 python-language-server==0.36.2
 python-slugify==4.0.1
 pytz==2021.1
-pywin32==300
-pywin32-ctypes==0.2.0
-pywinpty==0.5.7
-pyzmq==22.0.3
 QDarkStyle==2.8.1
 qstylizer==0.2.0
 QtAwesome==1.0.2
